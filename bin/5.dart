@@ -1,6 +1,7 @@
 void main(){
   A hh=A(name: "aa");
   print(hh.name);
+  print("hridya");
 }
 class A{
   String?name;
